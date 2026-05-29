@@ -21,7 +21,7 @@ A tiny romantic web app designed to ask someone out in a fun, playful and slight
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/love-deployment.git
+git clone https://github.com/Lockso/love-deployment.git
 ```
 
 Open `index.html` in your browser or deploy it to your favorite hosting provider.
