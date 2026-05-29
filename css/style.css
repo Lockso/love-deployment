@@ -283,7 +283,6 @@ input {
     body {
         min-height: 100svh;
         padding: 16px;
-        overflow-x: hidden;
         overflow-y: auto;
     }
 
@@ -297,7 +296,6 @@ input {
     #screen {
         width: 100%;
         max-width: 100%;
-        overflow: hidden;
     }
 
     .cat {
