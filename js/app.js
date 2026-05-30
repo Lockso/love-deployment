@@ -132,7 +132,7 @@ function renderQuestion() {
 function renderDate() {
 
     screen.innerHTML = `
-        <h1>Quando sei libera? 📅</h1>
+        <h1>Ottima Scelta! 🥰 <br>Quando sei libera? 📅</h1>
 
         <input
             type="date"
